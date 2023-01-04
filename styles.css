@@ -57,8 +57,8 @@ h6 {
 }
 
 .container {
-	max-width: 300px;
-	height: 450px;
+	max-width: 18.35rem;
+	height: 28rem;
 	background-color: white;
 	border-radius: 20px;
 	display: flex;
@@ -70,8 +70,7 @@ h6 {
 }
 
 .QRCode {
-	width: 240px;
-	height: 250px;
+	height: 16rem;
 	border-radius: 20px;
 }
 
@@ -80,8 +79,9 @@ h6 {
 	flex-direction: column;
 }
 
-h2 {
+h1 {
 	color: hsl(218, 44%, 22%);
+	font-size: 1.4rem
 }
 
 .footer {
